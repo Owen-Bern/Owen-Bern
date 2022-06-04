@@ -19,6 +19,10 @@
   Probably typical of code generator systems?
   I will see if I can get it to load in "NetBeans" , and see if it makes more sense there.
   The arduino software looks simple and straighforward. That shouldn't be hard to modify. I will also add a higher level of commenting!
+  
+  Forward plan:  discard the PC gui for now. - use bits of the arduino code, and develop up for 7 inch lcd touchscreen, micro SD card write.  This means I discard the 
+  high-res graphs and printout capability, but everything else can be done on the arduino, using very simple program structure.
+  I just need "start run" "stop run"  peak power/rpm display, write results to SD, clock module for creating file keys.
 
 <!---
 Owen-Bern/Owen-Bern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
